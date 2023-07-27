@@ -6,7 +6,7 @@ inquirer.prompt ([{
 
     type:"list",
     message:"pick the fallowing shape color",
-    choices:["green" , "blue" , "red"],
+    choices:["green" , "blue" , "teal"],
     name:"shapeColor"
 },
 {
