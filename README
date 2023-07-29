@@ -1,0 +1,33 @@
+LOGO-MAKER 
+
+In this project I created a logo generator using Node. 
+I successfully created a generator for three separate shapes, a square, triangle and a circle. In each 
+shape the user can chose different options such as the color and text they wish to render on the page.
+I have also included three separate test for each rendering that all pass (run the npm test command to check)
+
+Credit:
+https://chat.openai.com/
+google
+
+
+User guide:
+1st: open an integrated terminal to the index.js 
+2nd: Run the command node index.js in the command line
+3rd: The questions will render in the terminal and the user will have to make a choice for each 
+question asked 
+4th:Navigate to the example folder to view each rendered shape and text
+
+
+Below is a link to view a how to guide for this project
+
+
+
+
+https://drive.google.com/file/d/1P3Q_8jnrCq5-AY7MjGLm6ofjSNNNRo_8/view
+
+
+screenshots of the rendered shapes and text:
+
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
