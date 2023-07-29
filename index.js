@@ -6,13 +6,13 @@ inquirer.prompt ([{
 
     type:"list",
     message:"pick the fallowing shape color",
-    choices:["green" , "blue" , "teal"],
+    choices:["green" , "blue" , "red"],
     name:"shapeColor"
 },
 {
   type:"list",
   message:"pick a text color",
-  choices:["orange", "purple", "pink"],
+  choices:["white", "brown", "black"],
   name:"textColor"
 
 
